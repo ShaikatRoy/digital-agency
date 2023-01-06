@@ -140,3 +140,25 @@
     padding-bottom: 10px;
     border-radius: 10x;
 }
+.phone-call{
+    display: flex;
+
+}
+.call-icon{
+    width: 90px;
+}
+.appointment-section{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 75%;
+    background-color: #de4c12;
+    padding: 10px;
+    color: white;
+    margin: auto;
+    border-radius: 25px;
+    margin-top: -70px;
+}
+.app-description{
+    width: 50%;
+}
